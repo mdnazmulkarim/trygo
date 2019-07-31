@@ -1,0 +1,19 @@
+Initialize a git repo :
+
+1. go indide the repo directory
+Command :
+git init
+
+2. Add files:
+git add filename
+
+3. Commit:
+git commit -m "initial commit"
+
+4. Init to online :
+git remote add origin https://github.com/mdnazmulkarim/trygo.git
+
+5. Push to online:
+git push origin master
+
+
