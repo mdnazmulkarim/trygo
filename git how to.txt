@@ -18,3 +18,13 @@ git push origin master
 
 6. Push subsequent :
 git push origin master
+
+7. Status:
+git status
+
+8. Adding all files:
+git add .
+
+9: git remove from next commit:
+git rm filename
+
